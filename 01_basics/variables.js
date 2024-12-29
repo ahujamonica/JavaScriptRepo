@@ -10,7 +10,7 @@ accountCity = "Gujarat"
 let accountState;
 
 // console.log(accountId);
-console.table([accountEmail, accountPassword, accountCity, accountId, accountState])
+console.table([accountEmail, accountPassword, accountCity, accountId, accountState ])
 
 /*
 Prefer not to use var because of its scope issue 
