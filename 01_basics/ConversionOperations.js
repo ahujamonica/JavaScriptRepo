@@ -1,12 +1,12 @@
 
-let score = null
+// let score = null
 
-console.log(typeof score);
-console.log(typeof(score));
+// console.log(typeof score);
+// console.log(typeof(score));
 
-let valueInNumber = Number(score)
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// let valueInNumber = Number(score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
 
 
@@ -27,8 +27,19 @@ true => 1, false => 0
 
 let someNumber = 33
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 // 33 is converted in string, it still appears as 33 tho
 // typeof will give string
+
+// ******************* OPERATIONS *********************
+let value = 3
+let negvalue = -value
+// console.log(negvalue);
+
+ let value1 = 1
+ let value2 = "2"
+ let value3 = value1+value2
+ console.log(value3);
+ 
